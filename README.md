@@ -18,6 +18,6 @@ check README in each folder for instructions to compile and run.
 - sorting
 
 **Others:**
-- CStyle string operation
+- Cstyle string functions
  
 are now being implemented.
