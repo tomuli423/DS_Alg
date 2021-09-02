@@ -1,0 +1,7 @@
+To compile:
+	make
+To run:
+	./main
+
+TODO:
+- doubly, XOR, unrolled implementation
