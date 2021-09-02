@@ -2,7 +2,8 @@
 
 check README in each folder for instructions to compile and run. 
 
-Data structure:
+---
+**Data structure:**
 - linkedlist 
 - queue
   - circular array implementation
@@ -13,9 +14,10 @@ Data structure:
 - hash table
 - disjoint set
 
-Algorithm:
+**Algorithm:**
 - sorting
 
-Other:
+**Others:**
 - CStyle string operation
  
+are now being implemented.
