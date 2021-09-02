@@ -1,0 +1,12 @@
+To compile:
+	make
+To run:
+	./main
+
+with six sorting algorithms implemented:
+- selection sort
+- insertion sort
+- bubble sort
+- heap sort
+- merge sort
+- quick sort

@@ -1,0 +1,12 @@
+To compile:
+	make
+To run:
+	./main
+
+with c functions below implemented:
+- strlen
+- strcpy
+- strcat
+- strcmp
+- strchr
+- strstr(KMP algorithm)
