@@ -20,4 +20,4 @@ check README in each folder for instructions to compile and run.
 **Others:**
 - Cstyle string functions
  
-are now being implemented.
+are implemented in each folder.
